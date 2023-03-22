@@ -1,8 +1,8 @@
 Promethease
 Version 0.1.166
-Analyzed genome_v5_Full_20221227201005.txt <br>infiles /tmp/tmpelPBpk
-On 2023-03-16 08:04:29.920008 UTC
-Found 24869 SNPedia genos
+Analyzed genome.txt <br>infiles /tmp/tmpp33vYI
+On 2021-10-29 02:05:58.348079 UTC
+Found 25382 SNPedia genos
 
 promethease.html is the report. We're starting hear reports that some (browsers? OSs?) no longer allow double clicking on promethease.html to open the report. That will open the browser, but shows a blank page. If that happens to you, use File->Open to navigate to, then open, promethease.html
 
